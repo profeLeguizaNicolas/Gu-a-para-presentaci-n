@@ -1,6 +1,6 @@
 # Guía para presentación.
 
-## Estructura sugerida de laas diapositivas.
+## Estructura sugerida de las diapositivas.
 
 1. Portada: Título del trabajo + nombre de los integrantes.
 2. Introducción: presentación general de la película.
